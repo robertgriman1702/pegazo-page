@@ -1,525 +1,624 @@
 [
     {
-        "imagen":"img\/placeholder-product-default.jpg",
-        "titulo":"ARCHIVADORES LOMO ANCHO CARTA\/OFICIO  CRISVI\/OFIMAK",
-        "precio":26.0
-    },
-    {
+        "id":"00-0002",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"ARCHICOMODOS PLASTICOS. BULTO 20 UNID.",
         "precio":85.0
     },
     {
+        "id":"00-0003",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"ARCHICOMODOS PLASTICOS. BULTO 10 unid.",
         "precio":35.0
     },
     {
+        "id":"00-0004",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"BOLIGRAFO SEMI GEL 12 unid. POINTER Negro\/Azul",
         "precio":2.5
     },
     {
+        "id":"00-0005",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"BOLIGRAFO SEMI GEL 12 unid. CRISVI Negro\/Azul",
         "precio":2.5
     },
     {
+        "id":"00-0006",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"Borrador BLANCO MAYKA",
         "precio":0.4
     },
     {
+        "id":"00-0007",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"BLOCK DE DIBUJO MEDIANO C\/ESPIRAL",
         "precio":2.5
     },
     {
+        "id":"00-0008",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"BLOCK DE RAYAS DE 40 HOJAS",
         "precio":1.7
     },
     {
+        "id":"00-0009",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"BULTO HOJAS BLANCAS CARTA REPROGRAF\/HP. 10 RESMAS",
         "precio":55.0
     },
     {
+        "id":"00-0010",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"BULTO DE HOJAS BLANCAS OFICIO 10 RESMAS",
         "precio":75.0
     },
     {
+        "id":"00-0011",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CALCULADORA DE ESCRITORIO 12 DIGITOS DEXIN MED.",
         "precio":6.0
     },
     {
+        "id":"00-0012",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARPETA MANILA CARTA\/OFICIO. PAQ. 100 UNID.",
         "precio":17.0
     },
     {
+        "id":"00-0013",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARPETA MANILA CARTA\/OFICIO. PAQ.  50 UNID.",
         "precio":9.0
     },
     {
+        "id":"00-0014",
         "imagen":"img\/placeholder-product-default.jpg",
-        "titulo":"CARPETA MARRON CARTA\/OFICIO.  25 UNID ",
+        "titulo":"CARPETA MARRON CARTA\/OFICIO.  25 UNID",
         "precio":9.0
     },
     {
+        "id":"00-0015",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARPETAS 3 AROS BLANCA 0,5\"",
         "precio":3.5
     },
     {
+        "id":"00-0016",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARPETAS 3 AROS BLANCA 1\"",
         "precio":4.0
     },
     {
+        "id":"00-0017",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARPETAS 3 AROS BLANCA 1 1\/2\"",
         "precio":4.5
     },
     {
+        "id":"00-0018",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARPETAS 3 AROS BLANCA 2\"",
         "precio":5.5
     },
     {
+        "id":"00-0019",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARPETAS 3 AROS BLANCA 3\"",
         "precio":6.7
     },
     {
+        "id":"00-0020",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARTELERA DE CORCHO 60*45",
         "precio":20.0
     },
     {
+        "id":"00-0021",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARTELERA DE CORCHO 90*60",
         "precio":32.0
     },
     {
+        "id":"00-0022",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARTELERA DE CORCHO 80*1,20",
         "precio":45.0
     },
     {
+        "id":"00-0023",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARTULINA ESCOLAR COLORES SURTIDOS. 10 UNID.",
         "precio":7.0
     },
     {
+        "id":"00-0024",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CARTULINA DOBLE FAZ COLORES SURTIDOS. 10 UNID.",
         "precio":9.0
     },
     {
+        "id":"00-0025",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CINTA PLASTICA 3\/4 * 30 MTS 8 UNIDADES",
         "precio":3.0
     },
     {
+        "id":"00-0025",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CINTA  EMBALAJE TRANSP. PIEZA 90 mts",
         "precio":2.5
     },
     {
+        "id":"00-0026",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CINTA DE EMBALAJE TRANSP. CRISVI, 36 ROLLOS",
         "precio":65.0
     },
     {
+        "id":"00-0027",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CINTA DE EMBALAJE TRANSP. MR. BOBINA, 36 ROLLOS",
         "precio":50.0
     },
     {
+        "id":"00-0028",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CINTA IMPRESORA EPSON LX-300 ORIGINAL",
         "precio":9.0
     },
     {
+        "id":"00-0029",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CLIPS  PEQUEÑO. CAJITA 100 PZAS",
         "precio":1.05
     },
     {
+        "id":"00-0030",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CLIPS  1\" 25 MM BILLETERO",
         "precio":1.5
     },
     {
+        "id":"00-0031",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CLIPS MARIPOSA 65 MM",
         "precio":2.2
     },
     {
+        "id":"00-0032",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"COLORES ESTOL 12  COLORES",
         "precio":2.5
     },
     {
+        "id":"00-0033",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"COLORES ARTESCO 24 COLORES",
         "precio":5.0
     },
     {
+        "id":"00-0034",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"COMPAS DE PRECISION",
         "precio":2.0
     },
     {
+        "id":"00-0035",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"CORRECTOR LIQUIDO LAPIZ",
         "precio":1.2
     },
     {
+        "id":"00-0036",
         "imagen":"img\/placeholder-product-default.jpg",
-        "titulo":"EXACTO ",
+        "titulo":"EXACTO",
         "precio":1.2
     },
     {
+        "id":"00-0037",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"FOAMY TAMAÑO CARTA. 10 UNID.",
         "precio":3.5
     },
     {
+        "id":"00-0038",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"FUNDAS PROTECTORAS CARTA. 100 UNID.",
         "precio":5.5
     },
     {
+        "id":"00-0039",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"GANCHOS PARA CARPETAS 50 UND",
         "precio":3.0
     },
     {
+        "id":"00-0040",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"GRAPAS LISAS CAJITA",
         "precio":1.5
     },
     {
+        "id":"00-0041",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"GRAPAS CORRUGADAS",
         "precio":2.5
     },
     {
+        "id":"00-0042",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"HOJAS DE EXAMEN. 60 UNID.",
         "precio":3.0
     },
     {
+        "id":"00-0043",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"HOJAS DE EXAMEN. 100 UNID.",
         "precio":5.0
     },
     {
+        "id":"00-0044",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"HUELLERO DACTILAR POINTER",
         "precio":2.5
     },
     {
+        "id":"00-0045",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"JUEGO DE GEOMETRIA TAURO",
         "precio":1.5
     },
     {
+        "id":"00-0046",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LAPIZ MONGOL. 12 UNIDADES",
         "precio":2.81
     },
     {
+        "id":"00-0047",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LAPIZ KORES. 12 UNID.",
         "precio":2.81
     },
     {
+        "id":"00-0048",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LAPIZ CRISVI. 12 UNID.",
         "precio":2.5
     },
     {
+        "id":"00-0049",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRETAS 6 MATERAS ESTAMPADO 168 HOJAS",
         "precio":6.0
     },
     {
+        "id":"00-0050",
         "imagen":"img\/placeholder-product-default.jpg",
-        "titulo":"LIBRETA 1 LINEA 100 HOJAS ",
+        "titulo":"LIBRETA 1 LINEA 100 HOJAS",
         "precio":1.3
     },
     {
+        "id":"00-0051",
         "imagen":"img\/placeholder-product-default.jpg",
-        "titulo":"LIBRETA 2 LINEA 100 HOJAS ",
+        "titulo":"LIBRETA 2 LINEA 100 HOJAS",
         "precio":1.3
     },
     {
+        "id":"00-0052",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRETA CUADRICULADA",
         "precio":1.3
     },
     {
+        "id":"00-0053",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRETAS EMPASTADAS ESCOLARES CAJA 90 UNID.",
         "precio":70.0
     },
     {
+        "id":"00-0054",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRO DE ACTAS DE 100 FOLIOS",
         "precio":4.5
     },
     {
+        "id":"00-0055",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRO DE ACTAS DE 200 FOLIOS",
         "precio":7.1
     },
     {
+        "id":"00-0056",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRO DE ACTAS DE 300 FOLIOS",
         "precio":9.0
     },
     {
+        "id":"00-0057",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRO DE ACTAS DE 400 FOLIOS",
         "precio":11.0
     },
     {
+        "id":"00-0058",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRO DE ACTAS DE 500 FOLIOS",
         "precio":13.0
     },
     {
+        "id":"00-0059",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIBRO DE CONTABILIDAD 2 Y 3 COLUMNAS 100 FOILIOS",
         "precio":4.5
     },
     {
+        "id":"00-0060",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"LIGAS No. 18  113 GR. PAQUETE",
         "precio":2.8
     },
     {
+        "id":"00-0061",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"MARCADOR NEGRO PERMANENTE CRISVI.12 UNID.",
         "precio":7.0
     },
     {
+        "id":"00-0062",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"MARCADOR ACRILICO CRISVI. 12 UNID",
         "precio":8.0
     },
     {
+        "id":"00-00063",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"MARCADOR PERMANENTE 4 COLORES",
         "precio":2.5
     },
     {
+        "id":"00-00064",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"MARCADOR ACRILICO 4 COLORES",
         "precio":2.5
     },
     {
+        "id":"00-0065",
         "imagen":"img\/placeholder-product-default.jpg",
-        "titulo":"MARCADOR SHARPIE NEGRO POR DOCENA ",
+        "titulo":"MARCADOR SHARPIE NEGRO POR DOCENA",
         "precio":12.0
     },
     {
+        "id":"00-00066",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"NOTAS AUTOADEH. DE COLORES 100 HOJAS",
         "precio":1.0
     },
     {
+        "id":"00-00067",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"NOTAS AUTOADHESIVAS 300 Hojas",
         "precio":4.0
     },
     {
+        "id":"00-0068",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"NOTAS AUTOADHESIVAS 400 Hojas",
         "precio":4.0
     },
     {
+        "id":"00-0069",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PALETA DE MADERA 50 UNID.",
         "precio":1.02
     },
     {
+        "id":"00-0070",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PAPEL BOND BLANCO ROLLO 30 PLIEGOS",
         "precio":5.0
     },
     {
+        "id":"00-0071",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PAPEL BOND BLANCO ROLLO 60 PLIEGOS",
         "precio":10.0
     },
     {
+        "id":"00-0072",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PAPEL CONTAC TRANSPARENTE. 10 UNID.",
         "precio":10.0
     },
     {
+        "id":"00-0073",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PAPEL CREPE. 10 UNID.",
         "precio":3.5
     },
     {
+        "id":"00-0074",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PAPELERA METALICA GDE. (Negro)",
         "precio":12.0
     },
     {
+        "id":"00-0075",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PEGA EN BARRA 21 grs.",
         "precio":1.05
     },
     {
+        "id":"00-0076",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PEGA EN BARRA DIXON 36 grs.",
         "precio":1.5
     },
     {
+        "id":"00-0077",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PEGA ESCOLAR 120 GRS.",
         "precio":1.21
     },
     {
+        "id":"00-0078",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PEGA ESCOLAR 250 GRS.",
         "precio":2.0
     },
     {
+        "id":"00-0079",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PINTURA AL FRIO",
         "precio":0.83
     },
     {
+        "id":"00-0080",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PIZARRA ACRILICA 80*60",
         "precio":32.0
     },
     {
+        "id":"00-0081",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"PIZARRA ACRILICA 80*1,20",
         "precio":48.0
     },
     {
+        "id":"00-0082",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"RESALTADOR 4 COLORES. PAQUETE",
         "precio":2.5
     },
     {
+        "id":"00-0083",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"RESALTADOR  AMARILLO ACCENT. 12 UNID.",
         "precio":12.0
     },
     {
+        "id":"00-0084",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"RESALTADOR  AMARILLO FOSKA. 10 UNID.",
         "precio":6.0
     },
     {
+        "id":"00-0085",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"REGLA PLASTICA DE 30 CM",
         "precio":0.45
     },
     {
+        "id":"00-0086",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"ROLLOS DE PUNTO DE VENTA 57X40, CAJA 100 UNID.",
         "precio":28.0
     },
     {
+        "id":"00-0087",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SACAGRAPAS",
         "precio":0.8
     },
     {
+        "id":"00-0088",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SACAPUNTA CON DEPOSITO GRANDE",
         "precio":1.2
     },
     {
+        "id":"00-0089",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SEPARADORES COLORES 8 MAT. JUEGOS",
         "precio":1.2
     },
     {
+        "id":"00-0090",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SEPARADORES COLORES 8 MAT. PAQ. 25 JGOS.",
         "precio":24.0
     },
     {
+        "id":"00-0091",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SILICON EN BARRA DELGADA. UNIDAD",
         "precio":0.4
     },
     {
+        "id":"00-0092",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SILICON EN BARRA GRUESA. UNIDAD",
         "precio":0.5
     },
     {
+        "id":"00-0093",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SILICON LIQUIDO 60 ML",
         "precio":1.2
     },
     {
+        "id":"00-0094",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SILICON LIQUIDO 100 ML",
         "precio":1.5
     },
     {
+        "id":"00-0095",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SOBRE MANILA AMARILLOS CARTA 50 UND.",
         "precio":10.0
     },
     {
+        "id":"00-0096",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SOBRE MANILA AMARILLOS OFICIO 50 UND.",
         "precio":10.0
     },
     {
+        "id":"00-0097",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SOBRES BLANCOS No. 11 SIN VENTANA",
         "precio":10.0
     },
     {
+        "id":"00-0098",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"SOBRES BLANCOS No. 11 SIN VENTANA,. CAJA 500 Unid.",
         "precio":42.0
     },
     {
+        "id":"00-0099",
         "imagen":"img\/placeholder-product-default.jpg",
-        "titulo":"TABLA DE APOYO MDF CON GANCHO ",
+        "titulo":"TABLA DE APOYO MDF CON GANCHO",
         "precio":2.5
     },
     {
+        "id":"00-0100",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"TABLA PERIODICA",
         "precio":0.5
     },
     {
+        "id":"00-0101",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"TEMPERA 6 COLORES",
         "precio":2.2
     },
     {
+        "id":"00-0102",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"TIJERA ESCOLAR  5\"",
         "precio":1.0
     },
     {
+        "id":"00-0103",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"TIJERA DE OFICINA 7\"",
         "precio":1.5
     },
     {
+        "id":"nan",
         "imagen":"img\/placeholder-product-default.jpg",
         "titulo":"TIRRO AC OFFICE 1\" 24MM*30 MTS. CAJA 72 ROLLOS",
         "precio":65.0

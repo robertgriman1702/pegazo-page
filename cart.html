@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PEGAZO - Carrito de Compras</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/cart-style.css"> <!-- NUEVO CSS para el carrito -->
+</head>
+<body>
+
+    <!-- Copia y pega el MISMO <header> de index.html aquí -->
+    <header class="store-header">
+        <div class="header-container">
+            <a href="index.html" class="logo">
+                PEGAZO
+            </a>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">Inicio</a></li> <!-- Enlazar a index -->
+                    <li><a href="index.html#products">Productos</a></li> <!-- Enlazar a sección -->
+                    <li><a href="index.html#categories">Categorías</a></li>
+                    <li><a href="index.html#contact">Contacto</a></li>
+                </ul>
+            </nav>
+            <div class="header-actions">
+                 <button class="action-btn search-btn" aria-label="Buscar">
+                    <i class="fas fa-search"></i>
+                </button>
+                <button class="action-btn user-btn" aria-label="Cuenta de usuario">
+                    <i class="fas fa-user"></i>
+                </button>
+                <!-- Enlace al carrito desde el icono -->
+                <a href="cart.html" class="action-btn cart-btn" aria-label="Carrito de compras">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-count">0</span> <!-- Se actualizará por JS -->
+                </a>
+                 <button class="mobile-menu-toggle" aria-label="Abrir menú">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="cart-page-content">
+        <div class="container">
+            <h1 class="section-title">Carrito de Compras</h1>
+
+            <div id="cart-container">
+                <!-- Encabezados de la tabla/lista -->
+                <div class="cart-header cart-row">
+                    <div class="cart-item-col header-img">Producto</div>
+                    <div class="cart-item-col header-details">Descripción</div>
+                    <div class="cart-item-col header-price">Precio Unit.</div>
+                    <div class="cart-item-col header-quantity">Cantidad</div>
+                    <div class="cart-item-col header-total">Subtotal</div>
+                    <div class="cart-item-col header-remove"></div>
+                </div>
+
+                <!-- Contenedor donde se insertarán los items del carrito -->
+                <div id="cart-items-list">
+                    <!-- Mensaje inicial o si está vacío -->
+                    <p class="cart-empty-message">Tu carrito está vacío.</p>
+                    <!-- <p class="cart-loading-message">Cargando carrito...</p> -->
+                </div>
+
+                <!-- Resumen del Carrito -->
+                <div class="cart-summary">
+                    <div class="summary-line">
+                        <span>Total:</span>
+                        <span id="cart-total-price" class="total-price">$0.00</span>
+                    </div>
+                    <button class="checkout-button" disabled>Proceder al Pago (No funcional)</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Copia y pega el MISMO <footer> de index.html aquí -->
+    <footer class="store-footer">
+       <!-- ... -->
+    </footer>
+
+    <!-- Scripts -->
+    <!-- Módulo principal del carrito -->
+    <script type="module" src="js/cart.js"></script>
+    <!-- Script específico para la página del carrito -->
+    <script type="module" src="js/cart-page.js"></script> <!-- NUEVO JS -->
+
+</body>
+</html>
