@@ -1,0 +1,32 @@
+[
+    {
+      "imagen": "img/producto-boligrafo-set.jpg",
+      "titulo": "Set Bolígrafos Tinta Gel Colores Pastel",
+      "precio": 9.95
+    },
+    {
+      "imagen": "img/producto-libreta-kraft.jpg",
+      "titulo": "Libreta Ecológica Papel Kraft (A5)",
+      "precio": 5.50
+    },
+    {
+      "imagen": "img/producto-washitape-floral.jpg",
+      "titulo": "Cinta Washi Tape Diseño Floral (Pack 3)",
+      "precio": 6.75
+    },
+    {
+      "imagen": "img/producto-marcador-punta-pincel.jpg",
+      "titulo": "Marcadores Punta Pincel Acuarelables (Set 24)",
+      "precio": 22.00
+    },
+    {
+      "imagen": "img/producto-clips-dorados.jpg",
+      "titulo": "Clips Metálicos Dorados Forma Diamante",
+      "precio": 4.50
+    },
+    {
+      "imagen": "img/producto-agenda-2025.jpg",
+      "titulo": "Agenda Premium 2025 Vista Semanal",
+      "precio": 18.99
+    }
+  ]
