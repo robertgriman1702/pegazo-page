@@ -18,7 +18,7 @@ async function loadProducts() {
 
     try {
         // 1. Obtener los datos del archivo JSON
-        const response = await fetch('datos.json'); // Asegúrate que la ruta sea correcta
+        const response = await fetch('./datos_salida.json'); // Asegúrate que la ruta sea correcta
 
         // Verificar si la respuesta de la red fue exitosa
         if (!response.ok) {
