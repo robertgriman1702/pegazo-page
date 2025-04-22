@@ -11,16 +11,18 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+
     <header class="store-header">
         <div class="header-container">
-            <a href="index.html" class="logo">
+            <a href="index.html" class="logo"> <!-- Enlace a sí mismo o raíz -->
                 PEGAZO
             </a>
             <nav class="main-nav">
                 <ul>
+                    <!-- Enlaces de navegación -->
                     <li><a href="#home" class="active">Inicio</a></li>
                     <li><a href="#products">Productos</a></li>
-                    <li><a href="#categories">Categorías</a></li>
+                    <li><a href="#json-products-section">Nuestros Productos</a></li> <!-- Enlace a nueva sección -->
                     <li><a href="#contact">Contacto</a></li>
                 </ul>
             </nav>
@@ -31,76 +33,38 @@
                 <button class="action-btn user-btn" aria-label="Cuenta de usuario">
                     <i class="fas fa-user"></i>
                 </button>
-                <button class="action-btn cart-btn" aria-label="Carrito de compras">
+                <!-- === ENLACE AL CARRITO === -->
+                <a href="cart.html" class="action-btn cart-btn" aria-label="Carrito de compras">
                     <i class="fas fa-shopping-cart"></i>
-                    <span class="cart-count">0</span>
-                </button>
+                    <span class="cart-count">0</span> <!-- Se actualizará por cart.js -->
+                </a>
                  <button class="mobile-menu-toggle" aria-label="Abrir menú">
                     <i class="fas fa-bars"></i>
                 </button>
             </div>
         </div>
     </header>
+
     <main>
-        <section id="home" class="hero-section">
-            <div class="hero-content">
-                <h1>Todo para tu Escritorio y Creatividad</h1>
-                <p>Descubre nuestra selección de artículos de papelería de alta calidad.</p>
-                <a href="#products" class="cta-button">Ver Productos</a>
-            </div>
+        <!-- ... (sección hero) ... -->
+         <section id="home" class="hero-section">
+            <!-- ... -->
         </section>
+
+        <!-- === Sección Estática === -->
         <section id="products" class="product-section">
-            <div class="container">
+             <div class="container">
                 <h2 class="section-title">Combos Escolares</h2>
                 <div class="product-grid">
-                    <div class="product-card">
-                        <div class="card-image">
-                            <img src="./img/Captura de pantalla_20-4-2025_235638_www.instagram.com.jpeg" alt="Combo preescolar" loading="lazy">
-                            <span class="product-badge new">Nuevo</span>
-                        </div>
-                        <div class="card-content">
-                            <h3 class="card-title">Combo preescolar</h3>
-                            <div class="card-footer">
-                                <span class="card-price">$15.00</span>
-                                <button class="add-to-cart-btn" aria-label="Añadir al carrito">
-                                    <i class="fas fa-cart-plus"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="product-card">
-                        <div class="card-image">
-                            <img src="./img/Captura de pantalla_20-4-2025_235649_www.instagram.com.jpeg" alt="Combo Básico" loading="lazy">
-                        </div>
-                        <div class="card-content">
-                            <h3 class="card-title">Combo Básico</h3>
-                             <div class="card-footer">
-                                <span class="card-price">$20.00</span>
-                                <button class="add-to-cart-btn" aria-label="Añadir al carrito">
-                                    <i class="fas fa-cart-plus"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="product-card">
-                        <div class="card-image">
-                            <img src="./img/Captura de pantalla_20-4-2025_235658_www.instagram.com.jpeg" alt="Combo diversificado" loading="lazy">
-                             <span class="product-badge sale">Oferta</span>
-                        </div>
-                        <div class="card-content">
-                            <h3 class="card-title">Combo diversificado</h3>
-                             <div class="card-footer">
-                                <span class="card-price">$20.00</span>
-                                <button class="add-to-cart-btn" aria-label="Añadir al carrito">
-                                    <i class="fas fa-cart-plus"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-
+                    <!-- Cards estáticas (si quieres botones 'añadir' aquí, necesitan data-attributes y listeners también) -->
+                    <div class="product-card">...</div>
+                    <div class="product-card">...</div>
+                    <div class="product-card">...</div>
                 </div>
             </div>
         </section>
+
+        <!-- === Sección Productos JSON === -->
         <section id="json-products-section" class="product-section">
             <div class="container">
                 <h2 class="section-title">Nuestros Productos</h2>
@@ -110,17 +74,17 @@
             </div>
         </section>
     </main>
-    <footer class="store-footer">
-        <div class="container">
-            <p>PEGAZO. Todos los derechos reservados.</p>
-            <div class="social-links">
-                <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                <a href="#" aria-label="Pinterest"><i class="fab fa-pinterest-p"></i></a>
-            </div>
-        </div>
+
+    <!-- ... (Tu footer) ... -->
+     <footer class="store-footer">
+        <!-- ... -->
     </footer>
-    <script type="module" src="./js/products.js"></script>
+
+    <!-- === Scripts === -->
+    <!-- Módulo del carrito (necesario para actualizar contador y añadir) -->
+    <script type="module" src="js/cart.js"></script>
+    <!-- Script que carga productos del JSON y añade listeners a botones -->
+    <script type="module" src="js/products.js"></script> <!-- Asegúrate que el nombre sea correcto -->
 
 </body>
 </html>
